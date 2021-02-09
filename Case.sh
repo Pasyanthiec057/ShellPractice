@@ -2,8 +2,8 @@
 
 case $1 in
   basic)
-    @sh basic.sh
+    echo it is basic
     ;;
   Read)
-    @sh Read.sh
+    echo it is read
     esac
