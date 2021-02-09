@@ -3,3 +3,5 @@
 course_name=DevOps
 
 echo $course_name
+
+echo $#
