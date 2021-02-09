@@ -4,4 +4,4 @@ vars:
 	@sh vars.sh
 
 subfile:
-	@sub/subfile1.sh
+	@sh sub/subfile1.sh
