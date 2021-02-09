@@ -2,4 +2,4 @@
 
 read -p "pls enter course name:" name
 
-echo $name
+echo 'welcome to $name\nTrainer Raghu'
