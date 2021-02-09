@@ -3,5 +3,5 @@ Read:
 vars:
 	@sh vars.sh
 
-sub:
+subfile:
 	@sub/subfile1.sh
