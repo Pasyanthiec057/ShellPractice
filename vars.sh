@@ -10,4 +10,4 @@ echo $1
 echo $*
 echo $#
 
-echo a
+echo $a
