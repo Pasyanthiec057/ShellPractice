@@ -1,2 +1,2 @@
 Frontend:
-	@sh Roboshop-shell/Components/Frontend.sh
+	@sh Components/Frontend.sh
