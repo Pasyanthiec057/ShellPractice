@@ -1,4 +1,4 @@
 Frontend:
 	@sh Frontend.sh
-Mong:
+Mongo:
 	@sh Mongo.sh
